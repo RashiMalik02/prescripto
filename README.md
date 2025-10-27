@@ -7,7 +7,7 @@ A full-stack MERN healthcare application for booking doctor appointments with in
 - **Frontend**: https://prescriptofrontend1.netlify.app/
 - **Admin Panel**: https://prescriptoadmin1.netlify.app/admin-dashboard
 - **Backend API**: https://prescripto-u3c0.onrender.com
-- **GitHub Repository**: https://github.com/Abhinavsuri90/prescripto
+- **GitHub Repository**: https://github.com/RashiMalik02/prescripto
 
 **Contact**: rashii.malik02@gmail.com
 
