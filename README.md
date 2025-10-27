@@ -209,7 +209,7 @@ VITE_CURRENCY=₹
 
 ---
 
-## 🚀 Deployment Guide
+## Deployment Guide
 
 ### Backend (Render)
 1. Create new Web Service
@@ -232,7 +232,7 @@ VITE_CURRENCY=₹
 
 ---
 
-## 🐛 Common Issues & Solutions
+## Common Issues & Solutions
 
 ### MongoDB Connection Timeout
 - Ensure MongoDB Atlas allows connections from all IPs (0.0.0.0/0)
@@ -250,7 +250,7 @@ VITE_CURRENCY=₹
 
 ---
 
-## 📝 API Endpoints
+## API Endpoints
 
 ### User Routes
 - POST `/api/user/register` - Register new user
@@ -286,24 +286,24 @@ VITE_CURRENCY=₹
 
 - **Email**: rashii.malik02@gmail.com
 - **Phone**: +1-212-456-7890
-- **Developer**: Rashi Malik - One Man Army 💪
+- **Developer**: Rashi Malik
 
 ---
 
-## 👥 Contributing
+## Contributing
 
 This is a project for educational purposes. Feel free to fork and modify.
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available for educational purposes.
 
 ---
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - React Team
 - MongoDB Team
